@@ -1,5 +1,5 @@
 <html>
-    <head>Form input matakuliah</head>
+    <head></head>
 
     <body>
         <center>
